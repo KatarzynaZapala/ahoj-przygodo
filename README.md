@@ -1,2 +1,2 @@
 # ahoj-przygodo
-moje pierwsze repozytorium teskowe
+moje pierwsze repozytorium 
